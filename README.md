@@ -13,12 +13,14 @@ Made by Priyanshi Baldha.
 
 - Main features are as follows:
     - Light & Dark Theme
+    - splash Screen
     - Search functionality
     - Category wise News
     - Read Details of news
     - News with Image
     - Display news Using dio package
     - Display news Using API Calling
+   
 
 
 ## 📲 Screenshots
