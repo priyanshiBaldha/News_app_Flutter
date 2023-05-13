@@ -38,7 +38,8 @@ Made by Priyanshi Baldha.
 
 
 
-https://user-images.githubusercontent.com/113037698/236628242-ca9ca4ef-89cf-49a6-a779-18f9ca060d04.mp4
+https://github.com/priyanshiBaldha/News_app_Flutter/assets/113037698/f99d6820-c3d7-47c4-a322-9ba9fbfe904d
+
 
 
 
